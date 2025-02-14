@@ -1,6 +1,6 @@
 # I'm RedTeamer 
 
-![menu-bkp](https://github.com/Johnermac/Johnermac/assets/115858996/f8e4b684-379b-4b2d-a671-6ebaca75adf4)
+![menu-bkp]()
 
 ## About Me 🕵️‍♂️
 Passionate penetration tester with expertise in web, cloud, and infrastructure security.
