@@ -9,7 +9,7 @@ Passionate penetration tester with expertise in web, cloud, and infrastructure s
 <a href="https://www.linkedin.com/in/rustam-fakhrutdinov-1131b96a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Projects 🚀
-- [Github](https://johnermac.github.io/)
+- [Github](https://redteamer403.github.io/)
  
 ## Certifications
 
