@@ -1,7 +1,3 @@
-# I'm RedTeamer 
-
-![menu-bkp](https://github.com/redteamer403/redteamer403.github.io/blob/main/public/images/openart-image_yDyYjBkB_1739392081089_raw.jpg)
-
 ## About Me 🕵️‍♂️
 Passionate penetration tester with expertise in web, cloud, and infrastructure security.
 
